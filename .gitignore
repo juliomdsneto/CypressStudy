@@ -1,4 +1,4 @@
 CypressStudy/node_modules/
 .expo/
 npm-debug.*
-
+node_modules/*
